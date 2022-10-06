@@ -1,0 +1,28 @@
+.profile {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+.tags {
+    display: flex;
+    width: 100%;
+    justify-content: flex-start;
+
+}
+
+.tag {
+    background-color: black;
+    border: 1px solid #4C92DB;
+    padding: 0.5em;
+    margin: 0.5em
+}
+
+span {
+    display: block;
+}
+
+.profile>.profile>button:hover {
+    background-color: #4C92DB;
+    border: 1px solid white;
+}

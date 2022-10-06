@@ -1,0 +1,13 @@
+footer {
+    display: flex;
+    background-color: #375252;
+    overflow: hidden;
+    height: 5%;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+footer>a {
+    margin: auto;
+}

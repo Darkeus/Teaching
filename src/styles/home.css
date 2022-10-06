@@ -1,0 +1,10 @@
+.home {
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #414242;
+    color: #CFD3D4;
+    padding: 0 10% 0 10%;
+}
